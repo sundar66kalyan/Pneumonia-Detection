@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 libgl1
+=======
+libgl1
+>>>>>>> 959fd64 (Remove libglib2.0-0)
